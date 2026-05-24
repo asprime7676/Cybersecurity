@@ -1,2 +1,2 @@
-# Cybersecurity
-this is contain programming lkanguage codes like JAVA, c, c++, Pyjthon, HTML, CSS, SQL etc
+# CYBERSECURITY | BUG BOUNTY | WEB APPLICATION TESTING 
+I am currently do BCA from TECHNICAL EDUCATION AND RESEARCH INSTITUTE. GHAZIPUR
